@@ -1,0 +1,6 @@
+# Circuit Analyzer - Requirements
+# No external dependencies required! Uses only Python standard library.
+# Python 3.7+ recommended
+
+# For running tests with pytest (optional):
+# pytest>=7.0
