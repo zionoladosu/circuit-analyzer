@@ -2,7 +2,7 @@
 Sample Circuit Analyses
 ========================
 Demonstrates the Circuit Analyzer with practical examples.
-Run with: python examples/sample_circuits.py
+Run with: python3 examples/sample_circuits.py
 """
 
 import sys
