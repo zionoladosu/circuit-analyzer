@@ -2,8 +2,8 @@
 Unit Tests for Circuit Analyzer
 ================================
 Tests all core functions to verify correctness of calculations.
-Run with: python -m pytest tests/test_circuit.py -v
-Or: python tests/test_circuit.py
+Run with: python3 -m pytest tests/test_circuit.py -v
+Or: python3 tests/test_circuit.py
 """
 
 import sys
